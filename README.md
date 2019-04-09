@@ -2,7 +2,7 @@
 ## Create DB directory and config file 
 	E:\MongoData\data  
 	E:\MongoData\mongo.config  
-### content  
+### config file content  
 	##store data here
 	dbpath=E:/MongoData/data
 
